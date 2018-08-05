@@ -2,7 +2,6 @@
 class Solution:
     def twoSum(self, nums, target):
         """
-        hahaha
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
