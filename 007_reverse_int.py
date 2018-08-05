@@ -11,8 +11,8 @@ class Solution:
             flag = -1
         c = [str(n) for n in list(str(x))]
         c = c[::-1]
-        d = int("".join(c))*flag
-        if (d < -(1 << 31)) or (d > (1 << 31)-1):
+        s = int("".join(c))*flag
+        if (s < -(1 << 31)) or (s > (1 << 31)-1):
             return 0
         else:
-            return d
+            return s
