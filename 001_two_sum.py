@@ -7,9 +7,9 @@ class Solution:
         :rtype: List[int]
         """
         for i, val in enumerate(nums):
-            temp = target - val
+            tmp = target - val
             for j in range(i+1, len(nums)):
-                if nums[j] == temp:
+                if nums[j] == tmp:
                     ans = [i, j]
                     return ans
         return 0
