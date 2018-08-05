@@ -4,8 +4,7 @@
     <list default="true" id="e62339e9-8516-4441-aa99-940eb15aeeef" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reverse_int.py" afterPath="$PROJECT_DIR$/007_reverse_int.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/two_sum.py" afterPath="$PROJECT_DIR$/001_two_sum.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/009_Palindrome_Number.py" afterPath="$PROJECT_DIR$/009_Palindrome_Number.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="001_two_sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="001_two_sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/001_two_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="390">
+              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -33,18 +32,18 @@
       <file leaf-file-name="007_reverse_int.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/007_reverse_int.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="420">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="009_Palindrome_Number.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="009_Palindrome_Number.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/009_Palindrome_Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -67,8 +66,9 @@
       <list>
         <option value="$PROJECT_DIR$/reverse_int.py" />
         <option value="$PROJECT_DIR$/two_sum.py" />
-        <option value="$PROJECT_DIR$/009_Palindrome_Number.py" />
         <option value="$PROJECT_DIR$/001_two_sum.py" />
+        <option value="$PROJECT_DIR$/007_reverse_int.py" />
+        <option value="$PROJECT_DIR$/009_Palindrome_Number.py" />
       </list>
     </option>
   </component>
@@ -295,6 +295,30 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/001_two_sum.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007_reverse_int.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009_Palindrome_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_two_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
           <folding />
@@ -324,26 +348,26 @@
     <entry file="file://$PROJECT_DIR$/two_sum.py" />
     <entry file="file://$PROJECT_DIR$/reverse_int.py" />
     <entry file="file://$PROJECT_DIR$/two_sum.py" />
-    <entry file="file://$PROJECT_DIR$/009_Palindrome_Number.py">
+    <entry file="file://$PROJECT_DIR$/001_two_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="390">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/007_reverse_int.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="420">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001_two_sum.py">
+    <entry file="file://$PROJECT_DIR$/009_Palindrome_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="270">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
