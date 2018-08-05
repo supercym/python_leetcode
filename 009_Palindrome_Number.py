@@ -8,5 +8,5 @@ class Solution:
         if x < 0:
             return False
         c = [n for n in list(str(x))]
-        d = c[::-1]
-        return c == d
+        s = c[::-1]
+        return c == s
