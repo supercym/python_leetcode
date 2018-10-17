@@ -17,4 +17,4 @@ class Solution:
             min_index = min(min_index, v)
         return -1 if min_index == len(s) else min_index
 
-            
+
