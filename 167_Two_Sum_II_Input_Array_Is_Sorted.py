@@ -19,4 +19,4 @@ class Solution:
             if sum_val > target:
                 right -= 1
         return [left+1, right+1]
-    
+
