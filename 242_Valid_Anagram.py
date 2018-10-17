@@ -27,5 +27,5 @@ class Solution:
             if v != dt[k]:
                 return False
         return True
-        
+
 
