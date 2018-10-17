@@ -29,5 +29,5 @@ class Solution:
             if v > dMag[k]:
                 return False
         return True
-    
+
 
