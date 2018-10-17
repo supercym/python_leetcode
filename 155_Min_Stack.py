@@ -8,7 +8,7 @@ class MinStack:
         """
         self.stack = []
         self.min_val = None
-        
+
 
     def push(self, x):
         """
