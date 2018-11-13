@@ -30,6 +30,6 @@ class Solution:
             if index[S[pointer]] > subStrEnd:
                 subStrEnd = index[S[pointer]]
         return pointer
-    
+
 
 
