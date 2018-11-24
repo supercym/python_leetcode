@@ -26,5 +26,5 @@ class Solution:
                 j += 1
             i += 1
         return j == len(s)
-        
+
 
